@@ -72,13 +72,6 @@ Chat-App-MERN/
    npm start
    ```
 
-## 🚧 Roadmap
-
-📌 [ ] Implement WebSockets for real-time chat
-📌 [ ] Add user profiles
-📌 [ ] Deploy to Vercel/Render
-📌 [ ] Add typing indicators
-
 ## 👤 Author
 
 - 💻 GitHub: [al9o11](https://github.com/al9o11)
